@@ -43,3 +43,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/.firebase
+/.vs/my-first-static-web-app1/v16
